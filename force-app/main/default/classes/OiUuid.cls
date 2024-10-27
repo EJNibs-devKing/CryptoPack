@@ -3,8 +3,8 @@
 * See LICENSE file or go to https://github.com/jongpie/ApexUuid for full license details. *
 ******************************************************************************************/
 /**
- * @Author:      James Tildesley  <jtildesley@vlocity.com > , E.J. Nibi<neipe@vlocity.com >
- * @Company:     Vlocity
+ * @Author:      E.J. Nibi<neipe@vlocity.com>, James Tildesley  <jtildesley@vlocity.com>
+ * @Company:     Vlocity (Salesforce Industries)
  * @Date:
  * Reviewer: Fayyaz <mfayyaz@vlocity.com>
  * Review Date: 13/08/2019
