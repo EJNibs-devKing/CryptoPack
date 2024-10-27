@@ -3,13 +3,14 @@
 * See LICENSE file or go to https://github.com/jongpie/ApexUuid for full license details. *
 ******************************************************************************************/
 /**
- * @Author:      E.J. Nibi<neipe@vlocity.com>, James Tildesley  <jtildesley@vlocity.com>
+ * @Author:      E.J. Nibi<neipe@vlocity.com>
+ * @Author:      James Tildesley  <jtildesley@vlocity.com>
  * @Company:     Vlocity (Salesforce Industries)
  * @Date:
  * Reviewer: Fayyaz <mfayyaz@vlocity.com>
  * Review Date: 13/08/2019
- * @Description:
- *FA:This class have some if statements without curly brackets..
+ * @Description: Class to generate Id
+ *
  * -------------------------------------------------------------
 */
 
