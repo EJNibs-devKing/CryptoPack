@@ -9,7 +9,7 @@
  * @Date:
  * Reviewer: Fayyaz <mfayyaz@vlocity.com>
  * Review Date: 13/08/2019
- * @Description: Class to generate Id
+ * @Description: Class to generate unique Ids
  *
  * -------------------------------------------------------------
 */
